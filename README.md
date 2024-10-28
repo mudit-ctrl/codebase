@@ -39,7 +39,7 @@ This project includes the following dependencies:
 4. Navigate to the directory where you want to clone the project:
    ```bash
    cd /path/to/your/directory
-5)cd agn 
+5)cd codebash 
 6)cd agn
 7)flutter pub get
 8)flutter run
