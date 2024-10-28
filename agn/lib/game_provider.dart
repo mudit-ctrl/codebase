@@ -19,9 +19,10 @@ final gameProvider = Provider<List<Game>>((ref) {
   return [
     Game(
       name: 'Candy Crush',
-      url: 'https://poki.com/en/g/sweet-world#fullscreen',
+      url: 'https://poki.com/en/g/sweet-world',
       icon: Icons.bolt,
     ),
+    // https://poki.com/en/g/sweet-world#fullscreen
     Game(
       name: 'Subway Surfer',
       url: 'https://poki.com/en/g/subway-surfers',
